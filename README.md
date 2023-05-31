@@ -37,5 +37,4 @@ _This is a simple folder locking system which user can operate just by browsing 
 - SqlConnection = new SqlConnection(@"Your Connection String");
 - Thats it now save all files and now you can run the project.
 ----
-Tutorial Video Link:
-https://youtu.be/6jbBYk6mPBM
+
